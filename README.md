@@ -1,3 +1,0 @@
-# projectsrepo
-Repo with list of projects
-Items to be added soon...
